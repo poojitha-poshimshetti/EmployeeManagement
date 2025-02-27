@@ -1,1 +1,1 @@
-# EmployeeManagement
+👨‍💼 **Employee Management System** – A dynamic web application built using **JSP, Servlets, JDBC, and MySQL**. 📊 Features include **employee records management, CRUD operations, salary details, and role-based access**. 🚀 Designed for **efficient workforce management with a user-friendly interface**!
